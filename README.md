@@ -1,5 +1,4 @@
 ﻿# Space-Shooter-PY-game
-# Space-Shooter-PY-game
 # 🚀 SpaceShooter Game
 
 A fast-paced 2D Space Shooter game built using **Python** and **Pygame**.
@@ -148,4 +147,5 @@ Give it a star ⭐ on GitHub!
 ---
 
 ### 🎉 Enjoy Playing SpaceShooter!
+
 
